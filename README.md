@@ -6,7 +6,7 @@ Frontend and Backend Developer
 
 Experienced developer specializing in front-end React.js and ASP.Net server-side applications.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [moshevictor@yahoo.co.uk](mailto:moshevictor@yahoo.co.uk)
 
 ### Skills

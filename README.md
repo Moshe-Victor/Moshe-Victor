@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend and Backend Developer
 ------------------------------
  
-I am a frontend and Backend developer who loves ReactJS, C#.Net and Qwik. I do engineering, consultancy and training
+I am a Frontend and Backend developer who loves ReactJS and C#.Net. I specialise in software engineering.
  
 * 🌍  I'm based in London
 * ✉️  You can contact me at [contact@Moshe-Victor.com](mailto:contact@Moshe-Victor.com)

@@ -8,6 +8,7 @@ Experienced developer specializing in front-end React.js and ASP.Net server-side
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [moshevictor@yahoo.co.uk](mailto:moshevictor@yahoo.co.uk)
+* I am currently learning Effective React Development with NX
 
 ### Skills
 

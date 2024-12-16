@@ -8,7 +8,6 @@ I am a Frontend and Backend developer who loves ReactJS and C#.Net. I specialise
  
 * 🌍  I'm based in London
 * ✉️  You can contact me at [contact@Moshe-Victor.com](mailto:contact@Moshe-Victor.com)
-* 🧠  I'm learning Qwik
 * 🤝  I'm open to collaborating on Projects
  
 <a href="https://github.com/Moshe-Victor" target="_blank" rel="noreferrer"><img
@@ -21,8 +20,6 @@ I am a Frontend and Backend developer who loves ReactJS and C#.Net. I specialise
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
  
  

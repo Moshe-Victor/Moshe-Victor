@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend and Backend Developer
 ------------------------------
 
-Experienced developer specializing in front-end React.js and ASP.Net and server-side applications.
+Experienced developer specializing in front-end React.js, ASP.Net and server-side applications.
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [moshevictor@yahoo.co.uk](mailto:moshevictor@yahoo.co.uk)
